@@ -1,8 +1,8 @@
 Name of QuantLet : A-Shape_CRIX_VCRIX
 
-Published in : -
+Published in : ''
 
-Description :-Several plots of Alpha Shapes over the scatter plot 0x=CRIX vs. 0y=VCRIX for different values of Alpha
+Description : 'Several plots of Alpha Shapes over the scatter plot 0x=CRIX vs. 0y=VCRIX for different values of Alpha'
 
 Keywords : 'Alpha shape (a-shape), CRIX, VCRIX'
 
@@ -17,5 +17,5 @@ Datafile : 'TimeSeriesCRIX_VCRIX.csv'
 Input:
             - TimeSeriesCRIX_VCRIX.csv    : Time Series of daily CRIX data in the period 2 May 2016 to 10 Nov 2018 (923 data points) 
 
-Output:- several plots of Alpha Shapes of the scatter plot 0x=CRIX vs. 0y=VCRIX for different values of Alpha
-                    
+Output:
+            - 'several plots of Alpha Shapes of the scatter plot 0x=CRIX vs. 0y=VCRIX for different values of Alpha'
