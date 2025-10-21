@@ -10,7 +10,7 @@ See also : 'Scagnostic'
 
 Author : Elena Ivanova
 
-Submitted : Elena Ivanova
+Submitted : 25.02.2019
 
 Datafile : 'TimeSeriesCRIX_VCRIX.csv'
 
