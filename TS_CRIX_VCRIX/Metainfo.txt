@@ -9,7 +9,7 @@ Keywords : 'Time Series (TS), CRIX, VCRIX'
 
 Author : Elena Ivanova
 
-Submitted : Elena Ivanova
+Submitted : 25.02.2015
 
 Datafile : 'TimeSeriesCRIX_VCRIX.csv'
 
