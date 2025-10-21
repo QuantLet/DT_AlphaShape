@@ -10,7 +10,7 @@ Keywords : 'Delaunay Triangulation, Alpha shape (a-shape)'
 
 Author : Elena Ivanova
 
-Submitted : Elena Ivanova
+Submitted : 25.02.2019
 
 Output: 
   - Delaunay Triangulation of a set of 10 points (the points are taken from Figure 6.1 from the notes to the course Theory of Combinatorial Algorithms by Prof. Emo Welzl taught at ETH Zürich https://www.ti.inf.ethz.ch/ew/Lehre/CG13/lecture/Chapter%206.pdf)
